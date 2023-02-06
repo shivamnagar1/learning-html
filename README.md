@@ -7,3 +7,4 @@
 3. Comments
 4. Parent Child using Nesting and Identation
 5. Lists
+6. Links and Images
